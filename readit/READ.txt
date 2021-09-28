@@ -1,0 +1,4 @@
+to run all the file follow these steps :-
+1. Download all this files and folders.
+2. Make an extra folder called vids and place all your movies, animes and series in the vids folder but you have to seperate it in different folders like(Movies,Animes, and Series folder in vids).
+2. it's all done.
